@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level width="1200" height="720">    
+	<entity position = "1" type = "player1"/>
+	<entity position = "2" type = "player1"/>
+	<entity position = "3" type = "player1"/>
+	<entity position = "4" type = "player1"/>
+	<entity position = "5" type = "player1"/>
+	<entity position = "6" type = "player1"/>
+	<entity position = "7" type = "player1"/>
+	<entity position = "8" type = "player1"/>
+	<entity position = "9" type = "player1"/>
+	<entity position = "11" type = "player2"/>
+	<entity position = "12" type = "player2"/>
+	<entity position = "13" type = "player2"/>
+	<entity position = "14" type = "player2"/>
+	<entity position = "15" type = "player2"/>
+	<entity position = "16" type = "player2"/>
+	<entity position = "17" type = "player2"/>
+	<entity position = "18" type = "player2"/>
+	<entity position = "19" type = "player2"/>
+
+</level>
